@@ -1,8 +1,8 @@
-#### 全局映入
+#### 全局引入
       main.js
             import nineCard from './components/nineCard/nineCard.vue'
             Vue.component('nine-view',nineCard);
-#### 全局映入
+#### 局部引入
         xxx.vue
          import mpvueEcharts from '@/components/mpvue-echarts/src/echarts.vue';
 #### 使用
